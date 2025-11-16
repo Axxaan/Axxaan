@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Azan 👋
 
-<!--
-**Axxaan/Axxaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science student (Graduating December 2026)
+- Interested in game development, systems programming, and backend engineering
+- Currently building solo projects to sharpen my skills
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Python Reddit bot 🤖
+- UNIX shell in C / Systems projects
+- Small 2D game (Tetris or Roguelike)
+- Learning AWS + LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Python, C++, C#, C  
+**Tools:** Git, Linux, VSCode, Unity  
+**Learning:** AWS, SQL, Algorithms
+
+## Contact
+📧 Email: azan.sikder1@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/azan-sikder/
