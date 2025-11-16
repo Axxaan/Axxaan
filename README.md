@@ -1,4 +1,4 @@
-# Hi, I'm Azan 👋
+# Hi, I'm Azan 
 
 ## About Me
 - Computer Science student (Graduating December 2026)
