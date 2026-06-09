@@ -6,10 +6,7 @@
 - Currently building solo projects to sharpen my skills
 
 ## What I'm Working On
-- Python Reddit bot 🤖
-- UNIX shell in C / Systems projects
-- Small 2D game (Tetris or Roguelike)
-- Learning AWS + LeetCode
+- Honkai Star Rail AI Assistant "Pom Pom" 
 
 ## Tech Stack
 **Languages:** Python, C++, C#, C  
